@@ -2,4 +2,4 @@
 行弗乱其所为，所以动心忍性，增益其所不能。
 The day will fall to the man
                      --孟子
-HeHe?
+HeHe? HaHa?
