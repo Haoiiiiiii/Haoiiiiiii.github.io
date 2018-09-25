@@ -7,3 +7,5 @@
 ### [2d-3d](https://haoiiiiiii.github.io/code/2D-3D/2D-3D.html):https://haoiiiiiii.github.io/code/2D-3D/2D-3D.html
 
 ### [3d-rotating](https://haoiiiiiii.github.io/code/3Drotating/practice.html):https://haoiiiiiii.github.io/code/3Drotating/practice.html
+
+### [种地](https://haoiiiiiii.github.io/code/zhongdi/00.html):https://haoiiiiiii.github.io/code/zhongdi/00.html
