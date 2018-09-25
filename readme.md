@@ -11,3 +11,9 @@
 ### [种地](https://haoiiiiiii.github.io/code/zhongdi/00.html):https://haoiiiiiii.github.io/code/zhongdi/00.html
 
 ### [抽奖](https://haoiiiiiii.github.io/code/choujian/Lucky draw.html):https://haoiiiiiii.github.io/code/choujian/Lucky draw.html
+
+### [3D柱状图](https://haoiiiiiii.github.io/code/3D-column-chart/column-chart.html):https://haoiiiiiii.github.io/code/3D-column-chart/column-chart.html
+
+### [tab选项卡](https://haoiiiiiii.github.io/code/tab+shuffling/tab.html):https://haoiiiiiii.github.io/code/tab+shuffling/tab.html
+
+### [小球](https://haoiiiiiii.github.io/code/tab+shuffling/shuffling-27.html):https://haoiiiiiii.github.io/code/tab+shuffling/shuffling-27.html
