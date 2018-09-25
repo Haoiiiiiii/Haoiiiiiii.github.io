@@ -17,3 +17,5 @@
 ### [tab选项卡](https://haoiiiiiii.github.io/code/tab+shuffling/tab.html):https://haoiiiiiii.github.io/code/tab+shuffling/tab.html
 
 ### [小球](https://haoiiiiiii.github.io/code/tab+shuffling/shuffling-27.html):https://haoiiiiiii.github.io/code/tab+shuffling/shuffling-27.html
+
+### [svg动画](https://haoiiiiiii.github.io/code/svg-animation/svg-lianxi.html):https://haoiiiiiii.github.io/code/svg-animation/svg-lianxi.html
