@@ -9,3 +9,5 @@
 ### [3d-rotating](https://haoiiiiiii.github.io/code/3Drotating/practice.html):https://haoiiiiiii.github.io/code/3Drotating/practice.html
 
 ### [种地](https://haoiiiiiii.github.io/code/zhongdi/00.html):https://haoiiiiiii.github.io/code/zhongdi/00.html
+
+### [抽奖](https://haoiiiiiii.github.io/code/choujian/Lucky draw.html):https://haoiiiiiii.github.io/code/choujian/Lucky draw.html
