@@ -27,3 +27,4 @@
 
 ### [轮播图](https://haoiiiiiii.github.io/code/jq/jquery-轮播图.html):https://haoiiiiiii.github.io/code/jq/jquery-轮播图.html
 ### [放大镜](https://haoiiiiiii.github.io/code/jq/lx.html):https://haoiiiiiii.github.io/code/jq/lx.html
+### [通知权限](https://haoiiiiiii.github.io/code/Access-permissions/Notification.html):https://haoiiiiiii.github.io/code/Access-permissions/Notification.html
